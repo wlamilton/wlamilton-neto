@@ -7,8 +7,8 @@ O Fuga das Cobras é um jogo que envolve diversão e competitividade entre os am
 
 Para jogar ele é bem simples,você deve:
 
-• No celular clicar após clicar em “play” segure para a direção onde desejar que o personagem vá.
+• No celular após clicar em “play” segure para a direção onde desejar que o personagem vá.
 
-• No computador após apertar “play” tem a opção de clicar pelo mouse e movê-lo na direção desejada ou então direcionar o personagem pelas setas do teclado.
+• No computador após apertar “play” e tem a opção de clicar pelo mouse e movê-lo na direção desejada ou então direcionar o personagem pelas setas do teclado.
 
 [!arquivo]][prints da tela do jogo.zip](https://github.com/wlamilton/wlamilton-neto/files/14806604/prints.da.tela.do.jogo.zip)
