@@ -11,4 +11,4 @@ Para jogar ele é bem simples,você deve:
 
 • No computador após apertar “play” e tem a opção de clicar pelo mouse e movê-lo na direção desejada ou então direcionar o personagem pelas setas do teclado.
 
-[!arquivo]][prints da tela do jogo.zip](https://github.com/wlamilton/wlamilton-neto/files/14806604/prints.da.tela.do.jogo.zip)
+[!arquivo imagens do jogo]][prints da tela do jogo.zip](https://github.com/wlamilton/wlamilton-neto/files/14806604/prints.da.tela.do.jogo.zip)
